@@ -1,0 +1,10 @@
+C:\Users\dos\source\repos\Gr_Intern\InterServer\bin\Debug\InterServer.exe.config
+C:\Users\dos\source\repos\Gr_Intern\InterServer\bin\Debug\InterServer.exe
+C:\Users\dos\source\repos\Gr_Intern\InterServer\bin\Debug\InterServer.pdb
+C:\Users\dos\source\repos\Gr_Intern\InterServer\bin\Debug\NetworkLibrary.dll
+C:\Users\dos\source\repos\Gr_Intern\InterServer\bin\Debug\NetworkLibrary.pdb
+C:\Users\dos\source\repos\Gr_Intern\InterServer\obj\Debug\InterServer.csprojAssemblyReference.cache
+C:\Users\dos\source\repos\Gr_Intern\InterServer\obj\Debug\InterServer.csproj.CoreCompileInputs.cache
+C:\Users\dos\source\repos\Gr_Intern\InterServer\obj\Debug\InterServer.csproj.CopyComplete
+C:\Users\dos\source\repos\Gr_Intern\InterServer\obj\Debug\InterServer.exe
+C:\Users\dos\source\repos\Gr_Intern\InterServer\obj\Debug\InterServer.pdb

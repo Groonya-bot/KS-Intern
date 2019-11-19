@@ -1,0 +1,5 @@
+C:\Users\dos\source\repos\Gr_Intern\NetworkLibrary\bin\Debug\NetworkLibrary.dll
+C:\Users\dos\source\repos\Gr_Intern\NetworkLibrary\bin\Debug\NetworkLibrary.pdb
+C:\Users\dos\source\repos\Gr_Intern\NetworkLibrary\obj\Debug\NetworkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dos\source\repos\Gr_Intern\NetworkLibrary\obj\Debug\NetworkLibrary.dll
+C:\Users\dos\source\repos\Gr_Intern\NetworkLibrary\obj\Debug\NetworkLibrary.pdb
